@@ -2,6 +2,7 @@
 
 Dockerfile para instalar Docker en el contenedor de Jenkins
 
+```
 version: '3'
 services:
   jenkins:
@@ -22,3 +23,4 @@ volumes:
   jenkins_home:
 networks:
   net:
+```
