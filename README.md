@@ -1,4 +1,4 @@
-# dockerenjenkins
+# docker en jenkins
 
 Dockerfile para instalar Docker dentro del contenedor de Jenkins
 
