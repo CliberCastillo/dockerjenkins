@@ -1,6 +1,6 @@
 # dockerenjenkins
 
-Dockerfile para instalar Docker en el contenedor de Jenkins
+Dockerfile para instalar Docker dentro del contenedor de Jenkins
 
 ```
 version: '3'
